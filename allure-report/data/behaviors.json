@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Registering a user",
+    "uid" : "a1365510edcb624b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614771156202,
+      "stop" : 1614771200124,
+      "duration" : 43922
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-88.0.4324.182" ]
+  }, {
+    "name" : "Should search for Tshirt and add it to the cart",
+    "uid" : "d52f5edd1752a9bc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1614771200125,
+      "stop" : 1614771226900,
+      "duration" : 26775
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-88.0.4324.182" ]
+  } ]
+}

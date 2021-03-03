@@ -1,0 +1,75 @@
+{
+  "uid" : "d52f5edd1752a9bc",
+  "name" : "Should search for Tshirt and add it to the cart",
+  "fullName" : "Launching browser and registering user.Should search for Tshirt and add it to the cart",
+  "historyId" : "651c5d1f929f78076dcc2349d198bcca",
+  "time" : {
+    "start" : 1614771200125,
+    "stop" : 1614771226900,
+    "duration" : 26775
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testClass",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search for Tshirt and add it to the cart"
+  }, {
+    "name" : "package",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.182"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9039afda06dfe7ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614769003745,
+        "stop" : 1614769031658,
+        "duration" : 27913
+      }
+    }, {
+      "uid" : "fb8d4fb664c61b7",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#search_query_top\" because element wasn't found",
+      "time" : {
+        "start" : 1614768956012,
+        "stop" : 1614768966616,
+        "duration" : 10604
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d52f5edd1752a9bc.json",
+  "parameterValues" : [ "chrome-88.0.4324.182" ]
+}

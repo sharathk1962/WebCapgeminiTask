@@ -1,0 +1,58 @@
+{
+  "uid" : "8362d1863184e17a",
+  "name" : "Registering a user",
+  "fullName" : "Launching browser and registering user.Registering a user",
+  "historyId" : "285bf7182c63d839ebba2870e042669",
+  "time" : {
+    "start" : 1614771054695,
+    "stop" : 1614771114743,
+    "duration" : 60048
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Launching browser and registering user Registering a user\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\SHARATH\\ioweb\\test\\specs\\example.e2e.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Launching browser and registering user Registering a user\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\SHARATH\\ioweb\\test\\specs\\example.e2e.js)\n                    at createTimeoutError (C:\\Users\\SHARATH\\ioweb\\node_modules\\mocha\\lib\\errors.js:491:15)\n                    at Test.Runnable._timeoutError (C:\\Users\\SHARATH\\ioweb\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (C:\\Users\\SHARATH\\ioweb\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testClass",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registering a user"
+  }, {
+    "name" : "package",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.182"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8362d1863184e17a.json",
+  "parameterValues" : [ "chrome-88.0.4324.182" ]
+}

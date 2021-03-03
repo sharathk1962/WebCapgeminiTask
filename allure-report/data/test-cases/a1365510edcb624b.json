@@ -1,0 +1,67 @@
+{
+  "uid" : "a1365510edcb624b",
+  "name" : "Registering a user",
+  "fullName" : "Launching browser and registering user.Registering a user",
+  "historyId" : "285bf7182c63d839ebba2870e042669",
+  "time" : {
+    "start" : 1614771156202,
+    "stop" : 1614771200124,
+    "duration" : 43922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testClass",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Registering a user"
+  }, {
+    "name" : "package",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.182"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8362d1863184e17a",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 60000ms exceeded. The execution in the test \"Launching browser and registering user Registering a user\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (C:\\Users\\SHARATH\\ioweb\\test\\specs\\example.e2e.js)",
+      "time" : {
+        "start" : 1614771054695,
+        "stop" : 1614771114743,
+        "duration" : 60048
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1365510edcb624b.json",
+  "parameterValues" : [ "chrome-88.0.4324.182" ]
+}

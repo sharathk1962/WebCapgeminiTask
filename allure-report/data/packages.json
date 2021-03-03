@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Launching browser and registering user",
+    "children" : [ {
+      "name" : "Registering a user",
+      "uid" : "a1365510edcb624b",
+      "parentUid" : "35da24cf89dd7f0918cc477ec941f9a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614771156202,
+        "stop" : 1614771200124,
+        "duration" : 43922
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.182" ]
+    }, {
+      "name" : "Should search for Tshirt and add it to the cart",
+      "uid" : "d52f5edd1752a9bc",
+      "parentUid" : "35da24cf89dd7f0918cc477ec941f9a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614771200125,
+        "stop" : 1614771226900,
+        "duration" : 26775
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.182" ]
+    } ],
+    "uid" : "35da24cf89dd7f0918cc477ec941f9a0"
+  } ]
+}

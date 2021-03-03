@@ -1,0 +1,56 @@
+{
+  "uid" : "9039afda06dfe7ae",
+  "name" : "Should search for Tshirt and add it to the cart",
+  "fullName" : "Launching browser and registering user.Should search for Tshirt and add it to the cart",
+  "historyId" : "651c5d1f929f78076dcc2349d198bcca",
+  "time" : {
+    "start" : 1614769003745,
+    "stop" : 1614769031658,
+    "duration" : 27913
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testClass",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should search for Tshirt and add it to the cart"
+  }, {
+    "name" : "package",
+    "value" : "Launching browser and registering user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.182"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9039afda06dfe7ae.json",
+  "parameterValues" : [ "chrome-88.0.4324.182" ]
+}

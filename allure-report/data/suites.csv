@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 03 17:02:36 IST 2021","Wed Mar 03 17:03:20 IST 2021","43922","","Launching browser and registering user","","Launching browser and registering user","Registering a user","Registering a user",""
+"passed","Wed Mar 03 17:03:20 IST 2021","Wed Mar 03 17:03:46 IST 2021","26775","","Launching browser and registering user","","Launching browser and registering user","Should search for Tshirt and add it to the cart","Should search for Tshirt and add it to the cart",""

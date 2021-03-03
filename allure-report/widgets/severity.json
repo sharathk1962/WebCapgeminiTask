@@ -1,0 +1,21 @@
+[ {
+  "uid" : "d52f5edd1752a9bc",
+  "name" : "Should search for Tshirt and add it to the cart",
+  "time" : {
+    "start" : 1614771200125,
+    "stop" : 1614771226900,
+    "duration" : 26775
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1365510edcb624b",
+  "name" : "Registering a user",
+  "time" : {
+    "start" : 1614771156202,
+    "stop" : 1614771200124,
+    "duration" : 43922
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
